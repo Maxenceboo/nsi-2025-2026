@@ -1,0 +1,8 @@
+.idea/
+.venv/
+.iml
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+env/
